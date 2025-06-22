@@ -59,7 +59,7 @@ For detailed configuration options, see the comments in the generated config.yml
 ## Requirements
 
 - Java 21+
-- Spigot/Paper 1.21.5
+- Spigot/Paper 1.21.6
 
 ## Used By
 

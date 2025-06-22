@@ -27,4 +27,9 @@ target/
 
 # OS-specific files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Build script cache files
+.last_build_version
+.last_build_hash
+.release_notes_temp 
